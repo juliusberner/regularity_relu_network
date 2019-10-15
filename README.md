@@ -1,4 +1,5 @@
-## Towards a regularity theory for ReLU networks (construction of networks, ReLU derivative at zero, theory) 
+## Towards a regularity theory for ReLU networks 
+### (construction of approximating networks, ReLU derivative at zero, theory) 
 
 `regularity_of_relu_networks.ipynb`: 
 * PyTorch implementation of deep networks approximating Sobolev-regular functions w.r.t. weaker Sobolev norms. 
